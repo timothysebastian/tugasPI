@@ -1,6 +1,6 @@
 nilai_1 = 10
 nilai_2 = 5
 
-#perkalian
-hasil = nilai_1 * nilai_2
-print("hasil perkalian = "+str(hasil))
+#pembagian
+hasil = nilai_1 / nilai_2
+print("hasil pembagian = "+str(hasil))
